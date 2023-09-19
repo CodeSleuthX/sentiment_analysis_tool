@@ -25,8 +25,8 @@ if __name__ == "__main__":
   while True:
     user_text = input("Enter text (or type 'exit' to quit): ")
 
-  if user_text.lower() == "exit":
-    break
-
-  sentiment = analyze_sentiment(user_text)
-  print(f"Sentiment: {sentiment}")
+    if user_text.lower() == "exit":
+      break
+  
+    sentiment = analyze_sentiment(user_text)
+    print(f"Sentiment: {sentiment}")
