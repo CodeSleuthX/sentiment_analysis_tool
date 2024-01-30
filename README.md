@@ -15,7 +15,7 @@ In this code:
 6] To run this code, you'll need to have Python installed on your system, as well as the NLTK library. You can install NLTK and its data by running pip install nltk and then following the download instructions for the VADER lexicon using nltk.download("vader_lexicon").]
 
 # VADER lexicon
-In the context of the NLTK (Natural Language Toolkit) library, "NLTK data" refers to the datasets, corpora, lexicons, and other resources that NLTK provides for natural language processing tasks. NLTK is a comprehensive library in Python that is widely used for various NLP tasks, and it includes a wide range of data and resources to support these tasks.
+NLTK (Natural Language Toolkit) library, "NLTK data" refers to the datasets, corpora, lexicons, and other resources that NLTK provides for natural language processing tasks. NLTK is a comprehensive library in Python that is widely used for various NLP tasks, and it includes a wide range of data and resources to support these tasks.
 
 The "VADER lexicon" specifically refers to a sentiment analysis lexicon included with NLTK. VADER stands for "Valence Aware Dictionary and sEntiment Reasoner." It is a pre-built sentiment analysis tool that is particularly useful for analyzing sentiments in text data, especially in social media content like tweets, comments, and reviews. VADER lexicon contains words and phrases assigned sentiment scores (positive, negative, or neutral) that help in determining the sentiment expressed in text.
 
